@@ -32,6 +32,7 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+```
 
 ## Table of Contents
 
@@ -46,17 +47,11 @@ Copy repo, install dependencies, run the code.
 
 ## Usage
 
-![](C:\Users\Bret\code\Employee-Tracker\assets\images\Employee-Tracker-Demo.gif)
+![](https://github.com/baker-bret/Employee-Tracker/blob/main/assets/images/Employee-Tracker-Demo.gif)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[Bret Baker](https://github.com/baker-bret)
 
 ## License
-
-
-
+ This project is Licensed under MIT.
