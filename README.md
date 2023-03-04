@@ -42,12 +42,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Installation
 
-
+Copy repo, install dependencies, run the code.
 
 ## Usage
 
-
-
+![](C:\Users\Bret\code\Employee-Tracker\assets\images\Employee-Tracker-Demo.gif)
 
 ## Credits
 
